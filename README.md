@@ -10,7 +10,7 @@ Frontend
 
 ## Deployed App
 
-- **Frontend:** [https://your-finance-tracker.netlify.app](https://your-finance-tracker.netlify.app)
+- **Frontend:** [https://personal-finance-tracker-xquq.vercel.app/](https://personal-finance-tracker-xquq.vercel.app/)
 
 ## Directory Structure
 
